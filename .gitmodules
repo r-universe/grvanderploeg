@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "NPLStoolbox"]
+	path = NPLStoolbox
+	url = https://github.com/grvanderploeg/nplstoolbox
 [submodule "parafac4microbiome"]
 	path = parafac4microbiome
 	url = https://github.com/grvanderploeg/parafac4microbiome
